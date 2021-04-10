@@ -77,99 +77,82 @@
 
 ## Valid Local
 
+![](normal/a.p.p.l.e.png)
 
+![](normal/a.u.d.i.o.aac)
 
+![](normal/apple.png)
 
+![](normal/at123.png)
 
-ADD NORMAL!!!!
+![](normal/audio.mp3)
 
+![](normal/audio.ogg)
 
+![](normal/audio.wav)
 
+![](normal/badResolution.jpg)
 
+![](normal/bank.png)
 
+![](normal/bath.jpg)
 
-![](a.p.p.l.e.png)
+![](normal/bath.png)
 
-![](a.u.d.i.o.aac)
+![](normal/e.a.r.t.h.gif)
 
-![](apple.png)
+![](normal/earth.gif)
 
-![](at123.png)
+![](normal/f.r.o.g.svg)
 
-![](audio.mp3)
+![](normal/frog.svg)
 
-![](audio.ogg)
+![](normal/html_table.md)
 
-![](audio.wav)
+![](normal/html_table.txt)
 
-![](badResolution.jpg)
+![](normal/html2toc.rb)
 
-![](bank.png)
+![](normal/markua-logo.png)
 
-![](bath.jpg)
+![](normal/math.tex)
 
-![](bath.png)
+![](normal/PalmTree.svg)
 
-![](e.a.r.t.h.gif)
+![](normal/poem.txt)
 
-![](earth.gif)
+![](normal/sun.gif)
 
-![](f.r.o.g.svg)
+![](normal/table.txt)
 
-![](frog.svg)
+![](normal/Transcript.txt)
 
-![](html_table.md)
+![](normal/v.i.d.e.o.mov)
 
-![](html_table.txt)
+![](normal/very_small.png)
 
-![](html2toc.rb)
+![](normal/very_wide.png)
 
-![](markua-logo.png)
+![](normal/video.mp4)
 
-![](math.asciimath)
+![](normal/video.webm)
 
-![](math.tex)
+![](normal/wide_image.jpg)
 
-![](PalmTree.svg)
+{transcript: normal/Transcript.txt}
+![](normal/audio.mp3)
 
-![](poem.txt)
+{transcript: normal/Transcript.txt}
+![](normal/audio.ogg)
 
-![](sun.gif)
+{transcript: normal/Transcript.txt}
+![]normal/(audio.wav)
 
-![](table.txt)
+{transcript: normal/Transcript.txt}
+![](normal/video.mp4)
 
-![](Transcript.txt)
-
-![](v.i.d.e.o.mov)
-
-![](very_small.png)
-
-![](very_wide.png)
-
-![](video.mp4)
-
-![](video.webm)
-
-![](wide_image.jpg)
-
-{transcript: Transcript.txt}
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-
+{transcript: normal/Transcript.txt}
+![](normal/video.webm)
 
 
 ## Valid Web
