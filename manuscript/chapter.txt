@@ -154,3 +154,37 @@
 {transcript: normal/Transcript.txt}
 ![](normal/video.webm)
 
+
+## Valid Web
+
+{format: jpg}
+![](https://i.picsum.photos/id/385/200/300.jpg?hmac=IG8cHDliDmlgbSYX1yquX_5cAHcuS_O378oPs5rZGrU)
+
+{format: jpg}
+![](https://i.picsum.photos/id/72/200/200.jpg?hmac=SvHJdhApYL5YL48lV8qJ_QmrFZ2IzRcMEt3Jf4-O1X0)
+
+{format: png}
+![](https://dummyimage.com/600x400/000/fff.png&text=asdf)
+
+
+![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/PalmTree!.svg)
+
+![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/Transcript%20spaces.txt)
+
+![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/Transcript..txt)
+
+![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/Transcript~.txt)
+
+![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/html2toc!.rb)
+
+![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/html_table!.md)
+
+![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/html_table.txt)
+
+![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/math~.tex)
+
+![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/~Transcript.txt)
+
+![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/~Transcript~.txt)
+
+![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/~table.txt)
