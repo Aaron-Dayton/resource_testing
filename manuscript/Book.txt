@@ -18,7 +18,6 @@ chapter
 |file
 ~file
 $file
-spaces file
 chapter 2
 nonexistent
 aksdjf
