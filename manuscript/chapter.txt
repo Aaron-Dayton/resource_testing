@@ -1,124 +1,16 @@
-# Resource Testing
+# happy
 
-## Invalid Local
+![](normal/poem.txt)
 
-![](illegal/!video.webm)
+![](normal/sun.gif)
 
-![](illegal/video!.mov)
+![](normal/table.txt)
 
-![](illegal/very_wide~.png)
+![](normal/Transcript.txt)
 
-![](illegal/very_small!.png)
+![](normal/v.i.d.e.o.mov)
 
-![](illegal/Transcript~.txt)
+![](normal/very_small.png)
 
-![](illegal/Transcript..txt)
-
-![](illegal/sun..gif)
-
-![](illegal/png+.png)
-
-![](illegal/png!.png.png)
-
-![](illegal/PalmTree!.svg)
-
-![](illegal/math~.tex)
-
-![](illegal/markua-logo~.png)
-
-![](illegal/html2toc!.rb)
-
-![](illegal/html_table.txt)
-
-![](illegal/html_table!.md)
-
-![](illegal/frog..svg)
-
-![](illegal/earth~.gif)
-
-![](illegal/badResolution!.jpeg.jpg)
-
-![](illegal/audio~.mp3)
-
-![](illegal/audio%.ogg)
-
-![](illegal/audio!.aac)
-
-![](illegal/audio space.wav)
-
-![](illegal/~Transcript~.txt)
-
-![](illegal/~Transcript.txt)
-
-![](illegal/~table.txt)
-
-![](illegal/!video.webm)
-
-### Transcripts
-
-{transcript: illegal/Transcript~.txt}
-![](normal/video.mp4)
-
-{transcript: illegal/Transcript~.txt}
-![](normal/audio.mp3)
-
-{transcript: illegal/Transcript..txt}
-![](normal/video.mp4)
-
-{transcript: illegal/Transcript..txt}
-![](normal/audio.mp3)
-
-{transcript: illegal/Transcript spaces.txt}
-![](normal/video.mp4)
-
-{transcript: illegal/Transcript spaces.txt}
-![](normal/audio.mp3)
-
-
-## Valid Local
-
-![](normal/a.p.p.l.e.png)
-
-![](normal/a.u.d.i.o.aac)
-
-![](normal/apple.png)
-
-![](normal/at123.png)
-
-![](normal/audio.mp3)
-
-![](normal/audio.ogg)
-
-![](normal/audio.wav)
-
-![](normal/badResolution.jpg)
-
-![](normal/bank.png)
-
-![](normal/bath.jpg)
-
-![](normal/bath.png)
-
-![](normal/e.a.r.t.h.gif)
-
-![](normal/earth.gif)
-
-![](normal/f.r.o.g.svg)
-
-![](normal/frog.svg)
-
-![](normal/html_table.md)
-
-![](normal/html_table.txt)
-
-![](normal/html2toc.rb)
-
-![](normal/markua-logo.png)
-
-![](normal/math.tex)
-
-![](normal/PalmTree.svg)
-
-
-
+![](normal/very_wide.png)
 
