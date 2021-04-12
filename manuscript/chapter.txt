@@ -201,3 +201,11 @@
 
 {transcript: https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/Transcript~.txt}
 ![](http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4)
+
+![](https://www.kozco.com/tech/LRMonoPhase4.mp3)
+
+![](https://www.kozco.com/tech/piano2.wav)
+
+![](https://www.kozco.com/tech/piano2-CoolEdit.mp3)
+
+![]()
