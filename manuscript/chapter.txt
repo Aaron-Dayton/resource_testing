@@ -2,23 +2,7 @@
 ## Valid Local
 
 
-![](normal/poem.txt)
 
-![](normal/sun.gif)
-
-![](normal/table.txt)
-
-![](normal/Transcript.txt)
-
-![](normal/very_small.png)
-
-![](normal/very_wide.png)
-
-![](normal/video.mp4)
-
-![](normal/video.webm)
-
-![](normal/wide_image.jpg)
 
 {transcript: normal/Transcript.txt}
 ![](normal/audio.mp3)
