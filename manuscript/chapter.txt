@@ -12,9 +12,3 @@
 
 {transcript: normal/Transcript.txt}
 ![](normal/(audio.wav)
-
-{transcript: normal/Transcript.txt}
-![](normal/video.mp4)
-
-{transcript: normal/Transcript.txt}
-![](normal/video.webm)
