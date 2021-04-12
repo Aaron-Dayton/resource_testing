@@ -1,34 +1,77 @@
+## Valid Local
 
-## Valid Web
+![](normal/a.p.p.l.e.png)
 
-{format: jpg}
-![](https://i.picsum.photos/id/385/200/300.jpg?hmac=IG8cHDliDmlgbSYX1yquX_5cAHcuS_O378oPs5rZGrU)
+![](normal/a.u.d.i.o.aac)
 
-{format: jpg}
-![](https://i.picsum.photos/id/72/200/200.jpg?hmac=SvHJdhApYL5YL48lV8qJ_QmrFZ2IzRcMEt3Jf4-O1X0)
+![](normal/apple.png)
 
-{format: png}
-![](https://dummyimage.com/600x400/000/fff.png&text=asdf)
+![](normal/at123.png)
 
+![](normal/audio.mp3)
 
-![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/PalmTree!.svg)
+![](normal/audio.ogg)
 
-![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/Transcript%20spaces.txt)
+![](normal/audio.wav)
 
-![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/Transcript..txt)
+![](normal/badResolution.jpg)
 
-![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/Transcript~.txt)
+![](normal/bank.png)
 
-![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/html2toc!.rb)
+![](normal/bath.jpg)
 
-![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/html_table!.md)
+![](normal/bath.png)
 
-![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/html_table.txt)
+![](normal/e.a.r.t.h.gif)
 
-![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/math~.tex)
+![](normal/earth.gif)
 
-![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/~Transcript.txt)
+![](normal/f.r.o.g.svg)
 
-![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/~Transcript~.txt)
+![](normal/frog.svg)
 
-![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/~table.txt)
+![](normal/html_table.md)
+
+![](normal/html_table.txt)
+
+![](normal/html2toc.rb)
+
+![](normal/markua-logo.png)
+
+![](normal/math.tex)
+
+![](normal/PalmTree.svg)
+
+![](normal/poem.txt)
+
+![](normal/sun.gif)
+
+![](normal/table.txt)
+
+![](normal/Transcript.txt)
+
+![](normal/very_small.png)
+
+![](normal/very_wide.png)
+
+![](normal/video.mp4)
+
+![](normal/video.webm)
+
+![](normal/wide_image.jpg)
+
+{transcript: normal/Transcript.txt}
+![](normal/audio.mp3)
+
+{transcript: normal/Transcript.txt}
+![](normal/audio.ogg)
+
+{transcript: normal/Transcript.txt}
+![](normal/(audio.wav)
+
+{transcript: normal/Transcript.txt}
+![](normal/video.mp4)
+
+{transcript: normal/Transcript.txt}
+![](normal/video.webm)
+
