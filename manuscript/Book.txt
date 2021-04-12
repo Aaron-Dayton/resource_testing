@@ -19,3 +19,7 @@ chapter
 ~file
 $file
 spaces file
+chapter 2
+Chapter 3 - This is some sick stuff #cool
+Chapter 444444444444444444444444444444444444444
+Chapter 5 - This has many spaces
