@@ -42,36 +42,3 @@
 
 ![](normal/PalmTree.svg)
 
-![](normal/poem.txt)
-
-![](normal/sun.gif)
-
-![](normal/table.txt)
-
-![](normal/Transcript.txt)
-
-![](normal/very_small.png)
-
-![](normal/very_wide.png)
-
-![](normal/video.mp4)
-
-![](normal/video.webm)
-
-![](normal/wide_image.jpg)
-
-{transcript: normal/Transcript.txt}
-![](normal/audio.mp3)
-
-{transcript: normal/Transcript.txt}
-![](normal/audio.ogg)
-
-{transcript: normal/Transcript.txt}
-![](normal/(audio.wav)
-
-{transcript: normal/Transcript.txt}
-![](normal/video.mp4)
-
-{transcript: normal/Transcript.txt}
-![](normal/video.webm)
-
