@@ -1,47 +1,6 @@
 
 ## Valid Local
 
-![](normal/a.p.p.l.e.png)
-
-![](normal/a.u.d.i.o.aac)
-
-![](normal/apple.png)
-
-![](normal/at123.png)
-
-![](normal/audio.mp3)
-
-![](normal/audio.ogg)
-
-![](normal/audio.wav)
-
-![](normal/badResolution.jpg)
-
-![](normal/bank.png)
-
-![](normal/bath.jpg)
-
-![](normal/bath.png)
-
-![](normal/e.a.r.t.h.gif)
-
-![](normal/earth.gif)
-
-![](normal/f.r.o.g.svg)
-
-![](normal/frog.svg)
-
-![](normal/html_table.md)
-
-![](normal/html_table.txt)
-
-![](normal/html2toc.rb)
-
-![](normal/markua-logo.png)
-
-![](normal/math.tex)
-
-![](normal/PalmTree.svg)
 
 ![](normal/poem.txt)
 
