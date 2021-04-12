@@ -74,3 +74,83 @@
 {transcript: illegal/Transcript spaces.txt}
 ![](normal/audio.mp3)
 
+
+## Valid Local
+
+![](normal/a.p.p.l.e.png)
+
+![](normal/a.u.d.i.o.aac)
+
+![](normal/apple.png)
+
+![](normal/at123.png)
+
+![](normal/audio.mp3)
+
+![](normal/audio.ogg)
+
+![](normal/audio.wav)
+
+![](normal/badResolution.jpg)
+
+![](normal/bank.png)
+
+![](normal/bath.jpg)
+
+![](normal/bath.png)
+
+![](normal/e.a.r.t.h.gif)
+
+![](normal/earth.gif)
+
+![](normal/f.r.o.g.svg)
+
+![](normal/frog.svg)
+
+![](normal/html_table.md)
+
+![](normal/html_table.txt)
+
+![](normal/html2toc.rb)
+
+![](normal/markua-logo.png)
+
+![](normal/math.tex)
+
+![](normal/PalmTree.svg)
+
+![](normal/poem.txt)
+
+![](normal/sun.gif)
+
+![](normal/table.txt)
+
+![](normal/Transcript.txt)
+
+![](normal/v.i.d.e.o.mov)
+
+![](normal/very_small.png)
+
+![](normal/very_wide.png)
+
+![](normal/video.mp4)
+
+![](normal/video.webm)
+
+![](normal/wide_image.jpg)
+
+{transcript: normal/Transcript.txt}
+![](normal/audio.mp3)
+
+{transcript: normal/Transcript.txt}
+![](normal/audio.ogg)
+
+{transcript: normal/Transcript.txt}
+![](normal/(audio.wav)
+
+{transcript: normal/Transcript.txt}
+![](normal/video.mp4)
+
+{transcript: normal/Transcript.txt}
+![](normal/video.webm)
+
