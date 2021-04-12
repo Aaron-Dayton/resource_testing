@@ -177,8 +177,6 @@
 
 ![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/html_table!.md)
 
-![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/html_table.txt)
-
 ![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/math~.tex)
 
 ![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/~Transcript.txt)
@@ -186,3 +184,18 @@
 ![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/~Transcript~.txt)
 
 ![](https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/~table.txt)
+
+![](https://www.youtube.com/watch?v=O85OWBJ2ayo)
+
+![](https://www.youtube.com/watch?v=p_di4Zn4wz4)
+
+![](https://www.youtube.com/watch?v=iYn6EQDqTkU)
+
+{transcript: Transcript.txt}
+![](http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4)
+
+{transcript: https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/legal/Transcript..txt}
+![](http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4)
+
+{transcript: https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/Transcript~.txt}
+![](http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4)
