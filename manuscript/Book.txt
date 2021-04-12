@@ -20,9 +20,6 @@ chapter
 $file
 spaces file
 chapter 2
-Chapter 3 - This is some sick stuff #cool
-Chapter 444444444444444444444444444444444444444
-Chapter 5 - This        has        many       spaces
 nonexistent
 aksdjf
 asdfkgj
@@ -32,3 +29,7 @@ fl;kasdfjkgd
 aigjdrfg
 lerjgkrejg
 iu23hj54ih634ikj5
+Chapter 3 - This is some sick stuff #cool
+Chapter 444444444444444444444444444444444444444
+Chapter 5 - This        has        many       spaces
+
