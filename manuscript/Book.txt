@@ -1,1 +1,21 @@
 chapter
+;file
+!file
+?file
+'file
+""file
+()file
+[]file
+{}file
+*file
+/file
+\file
+&file
+%file
+`file
++file
+<>file
+|file
+~file
+$file
+spaces file
