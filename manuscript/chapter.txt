@@ -107,8 +107,6 @@
 
 ![](normal/frog.svg)
 
-![](normal/html_table.md)
-
 ![](normal/html_table.txt)
 
 ![](normal/html2toc.rb)
