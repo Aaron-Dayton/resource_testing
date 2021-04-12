@@ -1,10 +1,5 @@
-# happy
+![](normal/v.i.d.e.o.mov)
 
-![](normal/poem.txt)
+![](normal/very_small.png)
 
-![](normal/sun.gif)
-
-![](normal/table.txt)
-
-![](normal/Transcript.txt)
-
+![](normal/very_wide.png)
