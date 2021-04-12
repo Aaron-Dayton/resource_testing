@@ -127,8 +127,6 @@
 
 ![](normal/Transcript.txt)
 
-![](normal/v.i.d.e.o.mov)
-
 ![](normal/very_small.png)
 
 ![](normal/very_wide.png)
