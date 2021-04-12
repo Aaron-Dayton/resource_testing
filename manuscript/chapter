@@ -1,3 +1,6 @@
+{transcript: https://raw.githubusercontent.com/Aaron-Dayton/svg_and_web_resources/main/manuscript/symbols!.txt}
+![](http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4)
+
 # Resource Testing
 
 ## Invalid Local	
@@ -356,12 +359,12 @@
 
 ### 82
 
-{transcript: Transcript.txt}	
+{transcript: legal/Transcript.txt}	
 ![](http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4)	
 
 ### 83
 
-{transcript: https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/legal/Transcript..txt}	
+{transcript: https://raw.githubusercontent.com/Aaron-Dayton/resource_testing/master/manuscript/resources/illegal/Transcript..txt}	
 ![](http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4)	
 
 ### 84
