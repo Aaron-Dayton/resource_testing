@@ -4,6 +4,29 @@
 
 ![](resources/../resources/normal/apple.png)
 
+![](../resources/normal/apple.png)
+
+![](resources/../resources/illegal/earth.gif)
+
+![](resources/../resources/illegal/frog.svg)
+
+![](resources/../resources/illegal/double_ext.gif)
+
+![](resources/../resources/illegal/double_ext.svg)
+
+![](../resources/illegal/double_ext.gif)
+
+![](../resources/illegal/double_ext.svg)
+
+![](resources/../resources/illegal/double_ext2.gif.gif)
+
+![](resources/../resources/illegal/double_ext2.svg.svg)
+
+![](../resources/illegal/double_ext2.gif.gif)
+
+![](../resources/illegal/double_ext2.svg.svg)
+
+
 ### 1
 
 ![](illegal/!video.webm)
@@ -131,7 +154,15 @@
 ![](normal/audio.mp3)	
 
 
-## Valid Local	
+## Valid Local
+
+![](normal/double_ext.gif)
+
+![](normal/double_ext.svg)
+
+![](normal/double_ext2.gif.gif)
+
+![](normal/double_ext2.svg.svg)
 
 ### 30
 
