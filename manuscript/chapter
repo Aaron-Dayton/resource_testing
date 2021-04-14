@@ -318,17 +318,17 @@
 
 ## Valid Web	
 
-{format: jpg}	
+{type: jpg}	
 ![](https://i.picsum.photos/id/385/200/300.jpg?hmac=IG8cHDliDmlgbSYX1yquX_5cAHcuS_O378oPs5rZGrU)	
 
 ### 67
 
-{format: jpg}	
+{type: jpg}	
 ![](https://i.picsum.photos/id/72/200/200.jpg?hmac=SvHJdhApYL5YL48lV8qJ_QmrFZ2IzRcMEt3Jf4-O1X0)	
 
 ### 68
 
-{format: png}	
+{type: png}	
 ![](https://dummyimage.com/600x400/000/fff.png&text=asdf)	
 
 ### 69
@@ -412,37 +412,37 @@
 
 ### 88
 
-{format: audio}
+{type: audio}
 ![](https://github.com/Aaron-Dayton/resource_testing/blob/master/manuscript/resources/normal/a.u.d.i.o.aac?raw=true)
 
 ### 89
 
-{format: audio}
+{type: audio}
 ![](https://github.com/Aaron-Dayton/resource_testing/blob/master/manuscript/resources/normal/audio.mp3?raw=true)
 
 ### 90
 
-{format: audio}
+{type: audio}
 ![](https://github.com/Aaron-Dayton/resource_testing/blob/master/manuscript/resources/normal/audio.ogg?raw=true)
 
 ### 91
 
-{format: audio}
+{type: audio}
 ![](https://github.com/Aaron-Dayton/resource_testing/blob/master/manuscript/resources/normal/audio.wav?raw=true)
 
 ### 92
 
-{format: video}
+{type: video}
 ![](https://github.com/Aaron-Dayton/resource_testing/blob/master/manuscript/resources/normal/v.i.d.e.o.mov?raw=true)
 
 ### 93
 
-{format: video}
+{type: video}
 ![](https://github.com/Aaron-Dayton/resource_testing/blob/master/manuscript/resources/normal/video.mp4?raw=true)
 
 ### 94
 
-{format: video}
+{type: video}
 ![](https://github.com/Aaron-Dayton/resource_testing/blob/master/manuscript/resources/normal/video.webm?raw=true)
 
 ### 95
@@ -539,36 +539,36 @@
 
 ### 18
 
-{format: audio}
+{type: audio}
 ![](https://github.com/Aaron-Dayton/resource_testing/blob/master/manuscript/resources/illegal/!video.webm?raw=true)
 
 ### 19
 
-{format: audio}
+{type: audio}
 ![](https://github.com/Aaron-Dayton/resource_testing/blob/master/manuscript/resources/illegal/audio%20space.wav?raw=true)
 
 ### 20
 
-{format: audio}
+{type: audio}
 ![](https://github.com/Aaron-Dayton/resource_testing/blob/master/manuscript/resources/illegal/audio!.aac?raw=true)
 
 ### 21
 
-{format: audio}
+{type: audio}
 ![](https://github.com/Aaron-Dayton/resource_testing/blob/master/manuscript/resources/illegal/audio%25.ogg?raw=true)
 
 ### 22
 
-{format: audio}
+{type: audio}
 ![](https://github.com/Aaron-Dayton/resource_testing/blob/master/manuscript/resources/illegal/audio~.mp3?raw=true)
 
 ### 23
 
-{format: video}
+{type: video}
 ![](https://github.com/Aaron-Dayton/resource_testing/blob/master/manuscript/resources/illegal/video!.mov?raw=true)
 
 ### 24
 
-{format: video}
+{type: video}
 ![](https://github.com/Aaron-Dayton/resource_testing/blob/master/manuscript/resources/illegal/video~.mp4?raw=true)
 
