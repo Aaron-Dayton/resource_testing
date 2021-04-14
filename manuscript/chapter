@@ -318,17 +318,17 @@
 
 ## Valid Web	
 
-{type: jpg}	
+{format: jpg}	
 ![](https://i.picsum.photos/id/385/200/300.jpg?hmac=IG8cHDliDmlgbSYX1yquX_5cAHcuS_O378oPs5rZGrU)	
 
 ### 67
 
-{type: jpg}	
+{format: jpg}	
 ![](https://i.picsum.photos/id/72/200/200.jpg?hmac=SvHJdhApYL5YL48lV8qJ_QmrFZ2IzRcMEt3Jf4-O1X0)	
 
 ### 68
 
-{type: png}	
+{format: png}	
 ![](https://dummyimage.com/600x400/000/fff.png&text=asdf)	
 
 ### 69
