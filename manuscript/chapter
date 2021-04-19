@@ -1,6 +1,7 @@
 # Resource Testing
 
-
+{type: image, format: png}
+![](https://github.com/Aaron-Dayton/complex_lfm/blob/master/Manuscript/Images/bad.file.name.png?raw=true)
 
 ## Invalid Local
 
