@@ -6,6 +6,8 @@ chapter
 ""file
 ()file
 []file
+file[
+fi]le
 {}file
 *file
 /file
